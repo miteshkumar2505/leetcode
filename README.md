@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/miteshkumar2505/leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/miteshkumar2505/leetcode/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
@@ -21,4 +22,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/miteshkumar2505/leetcode/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/miteshkumar2505/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
