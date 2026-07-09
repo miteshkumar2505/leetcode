@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/miteshkumar2505/leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/miteshkumar2505/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/miteshkumar2505/leetcode/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/miteshkumar2505/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/miteshkumar2505/leetcode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
