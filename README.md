@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/miteshkumar2505/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/miteshkumar2505/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/miteshkumar2505/leetcode/tree/master/0042-trapping-rain-water) |
+| [0164-maximum-gap](https://github.com/miteshkumar2505/leetcode/tree/master/0164-maximum-gap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +38,16 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/miteshkumar2505/leetcode/tree/master/0010-regular-expression-matching) |
+## Sorting
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/miteshkumar2505/leetcode/tree/master/0164-maximum-gap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/miteshkumar2505/leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/miteshkumar2505/leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
