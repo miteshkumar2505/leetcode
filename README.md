@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/miteshkumar2505/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/miteshkumar2505/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/miteshkumar2505/leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/miteshkumar2505/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/miteshkumar2505/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/miteshkumar2505/leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
@@ -14,6 +15,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/miteshkumar2505/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/miteshkumar2505/leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/miteshkumar2505/leetcode/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/miteshkumar2505/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/miteshkumar2505/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/miteshkumar2505/leetcode/tree/master/0169-majority-element) |
 ## Bucket Sort
