@@ -54,6 +54,7 @@
 | [0164-maximum-gap](https://github.com/miteshkumar2505/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/miteshkumar2505/leetcode/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/miteshkumar2505/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/miteshkumar2505/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/miteshkumar2505/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/miteshkumar2505/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
