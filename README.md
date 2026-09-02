@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/miteshkumar2505/leetcode/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/miteshkumar2505/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/miteshkumar2505/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/miteshkumar2505/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/miteshkumar2505/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/miteshkumar2505/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
