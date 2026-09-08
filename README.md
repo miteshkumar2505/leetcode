@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/miteshkumar2505/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/miteshkumar2505/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/miteshkumar2505/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/miteshkumar2505/leetcode/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/miteshkumar2505/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/miteshkumar2505/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/miteshkumar2505/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/miteshkumar2505/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/miteshkumar2505/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/miteshkumar2505/leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [0088-merge-sorted-array](https://github.com/miteshkumar2505/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/miteshkumar2505/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/miteshkumar2505/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/miteshkumar2505/leetcode/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/miteshkumar2505/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/miteshkumar2505/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bucket Sort
