@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/miteshkumar2505/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/miteshkumar2505/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/miteshkumar2505/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/miteshkumar2505/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/miteshkumar2505/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/miteshkumar2505/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/miteshkumar2505/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -45,6 +46,7 @@
 | [0001-two-sum](https://github.com/miteshkumar2505/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/miteshkumar2505/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/miteshkumar2505/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/miteshkumar2505/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/miteshkumar2505/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/miteshkumar2505/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
