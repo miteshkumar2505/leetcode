@@ -89,6 +89,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/miteshkumar2505/leetcode/tree/master/0189-rotate-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/miteshkumar2505/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3870-count-commas-in-range](https://github.com/miteshkumar2505/leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/miteshkumar2505/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
