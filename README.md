@@ -58,6 +58,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/miteshkumar2505/leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/miteshkumar2505/leetcode/tree/master/0010-regular-expression-matching) |
 ## Sorting
 |  |
@@ -96,6 +97,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/miteshkumar2505/leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/miteshkumar2505/leetcode/tree/master/0189-rotate-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/miteshkumar2505/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/miteshkumar2505/leetcode/tree/master/3870-count-commas-in-range) |
@@ -108,6 +110,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/miteshkumar2505/leetcode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/miteshkumar2505/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Sliding Window
 |  |
