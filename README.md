@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/miteshkumar2505/leetcode/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/miteshkumar2505/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/miteshkumar2505/leetcode/tree/master/0010-regular-expression-matching) |
+| [1021-remove-outermost-parentheses](https://github.com/miteshkumar2505/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/miteshkumar2505/leetcode/tree/master/0268-missing-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/miteshkumar2505/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
