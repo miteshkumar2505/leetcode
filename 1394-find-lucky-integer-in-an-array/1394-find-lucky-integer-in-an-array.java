@@ -3,7 +3,7 @@ class Solution {
     public int findLucky(int[] arr) {
         int lucky = -1;
 
-        for (int i = 0; i < arr.length; i++) {
+        for (int i = 0; i < arr.length-1; i++) {
             int count = 0;
 
             for (int j = 0; j < arr.length; j++) {
