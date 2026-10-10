@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/miteshkumar2505/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/miteshkumar2505/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/miteshkumar2505/leetcode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/miteshkumar2505/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/miteshkumar2505/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/miteshkumar2505/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/miteshkumar2505/leetcode/tree/master/0055-jump-game) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/miteshkumar2505/leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/miteshkumar2505/leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/miteshkumar2505/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/miteshkumar2505/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/miteshkumar2505/leetcode/tree/master/0219-contains-duplicate-ii) |
