@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/miteshkumar2505/leetcode/tree/master/0010-regular-expression-matching) |
+| [0067-add-binary](https://github.com/miteshkumar2505/leetcode/tree/master/0067-add-binary) |
 | [1021-remove-outermost-parentheses](https://github.com/miteshkumar2505/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/miteshkumar2505/leetcode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/miteshkumar2505/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/miteshkumar2505/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/miteshkumar2505/leetcode/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/miteshkumar2505/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -142,9 +144,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/miteshkumar2505/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/miteshkumar2505/leetcode/tree/master/0268-missing-number) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/miteshkumar2505/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/miteshkumar2505/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
