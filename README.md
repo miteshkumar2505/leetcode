@@ -35,6 +35,7 @@
 | [0088-merge-sorted-array](https://github.com/miteshkumar2505/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/miteshkumar2505/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/miteshkumar2505/leetcode/tree/master/0189-rotate-array) |
+| [1768-merge-strings-alternately](https://github.com/miteshkumar2505/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0010-regular-expression-matching](https://github.com/miteshkumar2505/leetcode/tree/master/0010-regular-expression-matching) |
 | [0067-add-binary](https://github.com/miteshkumar2505/leetcode/tree/master/0067-add-binary) |
 | [1021-remove-outermost-parentheses](https://github.com/miteshkumar2505/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/miteshkumar2505/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Recursion
 |  |
 | ------- |
